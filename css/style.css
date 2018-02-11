@@ -54,14 +54,12 @@ main .row {
   color: #fff;
   background-color: #64827a;
   opacity: 0.7;
-  filter: alpha(opacity=60); /* For IE8 and earlier*/
 }
 
 .pizza-img {
   padding: 25px;
   background-color: #64827a;
   opacity: 0.7;
-  filter: alpha(opacity=60); /* For IE8 and earlier*/
 }
 
 .header ul {
@@ -72,15 +70,11 @@ main .row {
   display: flex;
   justify-content: space-between;
   font-size: 18px;
-  /*   opacity: 0.6;
-filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 .header li {
   padding: 6px;
   margin: ;
-  /*     background-color: ; */
-  /*   float: left; */
 }
 
 .header li a {
@@ -119,8 +113,6 @@ li.active > a {
   letter-spacing: 0.2em;
   font-size: 18px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  /*   opacity: 0.6;
-filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 /* footer section */
 footer {
