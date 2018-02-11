@@ -122,14 +122,20 @@ li.active > a {
   /*   opacity: 0.6;
 filter: alpha(opacity=60); /* For IE8 and earlier */
 }
-.footer {
+/* footer section */
+footer {
   background-color: #64827a;
   color: #edb786;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   font-size: 1.1em;
   padding: 15px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #ef6c00;
 }
 
 /* For mobile phones: */
