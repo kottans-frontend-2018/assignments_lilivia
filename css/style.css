@@ -59,6 +59,7 @@ header section {
 }
 
 #logo {
+  width: 90px;
   padding: 15px;
   border-radius: 55px;
   background: #b71c1c;
@@ -67,6 +68,7 @@ header section {
 button.active {
   padding: 8px;
   font-family: 'Kalam', sans-serif;
+  font-size: 18px;
   color: orangered;
   font-weight: bold;
   background: #64827a;
